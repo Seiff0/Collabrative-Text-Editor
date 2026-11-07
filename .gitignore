@@ -1,0 +1,4 @@
+*.exe
+*.o
+server_files/
+__pycache__/
